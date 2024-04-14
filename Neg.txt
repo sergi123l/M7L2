@@ -1,1 +1,1 @@
-print("ti pidor")
+print("ti negr")
